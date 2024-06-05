@@ -1,6 +1,7 @@
 # Heart Failure Prediction Model
- Machine Learning Application In Critical Care
- The burgeoning challenge of heart failure presents a formidable task in modern healthcare,
+Machine Learning Application In Critical Care.
+
+The burgeoning challenge of heart failure presents a formidable task in modern healthcare,
 necessitating proactive measures for early detection and intervention. In this comprehensive
 research endeavour, we embark on a meticulous comparative study employing machine
 learning methodologies to predict heart failure. With a dataset rich in clinical variables and
